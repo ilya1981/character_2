@@ -1,5 +1,5 @@
 TN:
-SF:src\css\js\bowman.js
+SF:src\js\bowman.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -11,7 +11,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\css\js\character.js
+SF:src\js\character.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -39,7 +39,7 @@ BRF:6
 BRH:4
 end_of_record
 TN:
-SF:src\css\js\daemon.js
+SF:src\js\daemon.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -51,7 +51,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\css\js\magician.js
+SF:src\js\magician.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -63,7 +63,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\css\js\swordsman.js
+SF:src\js\swordsman.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -75,7 +75,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\css\js\undead.js
+SF:src\js\undead.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -87,7 +87,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\css\js\zombie.js
+SF:src\js\zombie.js
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
